@@ -14,3 +14,8 @@ npm install
 ```sh
 npm run dev
 ```
+## Mock Server Setup
+*In a different console use this command:*
+```sh
+npm run server
+```
